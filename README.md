@@ -98,7 +98,7 @@ To set up the environment and run the code, follow these steps:
 This project is licensed under the MIT License, allowing free use, modification, and distribution with proper attribution.
 
 ## Acknowledgments
-This work was supported by [insert funding or institutional acknowledgments, if any]. Special thanks to the xAI team for their computational resources and feedback.
+This work was supported by the National Key Research and Development Program of the Ministry of Science and Technology of China. Special thanks to the Tsinghua University Qi Yuan Laboratory for providing computational resources and feedback.
 
 ## Contact
 For questions or collaborations, please open an issue or contact [1757772673@qq.com].
