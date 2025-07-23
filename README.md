@@ -92,7 +92,7 @@ To set up the environment and run the code, follow these steps:
 - `maps/proposed_map_timestep_XXX.svg`, `astar_map_timestep_XXX.svg`, `potential_map_timestep_XXX.svg`: Maps for method comparison.
 - `results/`: Selected figures and metrics for paper inclusion.
 
-*Note: Due to the large number of SVG files, only key frames are uploaded. Full visualizations are available at [Google Drive link] (to be updated).*
+*Note: Due to the large number of SVG files, only key frames are uploaded. *
 
 ## License
 This project is licensed under the MIT License, allowing free use, modification, and distribution with proper attribution.
