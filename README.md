@@ -19,7 +19,7 @@ To set up the environment and run the code, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MultiUAV_DynamicRiskField.git
+   git clone https://github.com/ATOI-Ming/MultiUAV_DynamicRiskField.git
    cd MultiUAV_DynamicRiskField
    ```
 
