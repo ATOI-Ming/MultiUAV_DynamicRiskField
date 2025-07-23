@@ -101,7 +101,7 @@ This project is licensed under the MIT License, allowing free use, modification,
 This work was supported by [insert funding or institutional acknowledgments, if any]. Special thanks to the xAI team for their computational resources and feedback.
 
 ## Contact
-For questions or collaborations, please open an issue or contact [your-email@example.com].
+For questions or collaborations, please open an issue or contact [1757772673@qq.com].
 
 ## Future Work
 - Implement dynamic threat sources (Equation 6) in `chapter4_main_experiment.py`.
